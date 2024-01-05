@@ -1,2 +1,2 @@
-# .github
-Readme
+# MIT Lincoln Laboratory Trusted Autonomy 
+We are a team of researchers and software developers focused on flexible, intelligent, and trustworthy autonomy. We leverage techniques from formal methods, control theory, and robotics to develop algorithms for autonomous systems with safety guarantees. Our work starts with fundamental theory and delivers prototypes operating in the real world. Please take a look at our publications below and check out our software on GitHub.
